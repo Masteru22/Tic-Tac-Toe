@@ -1,1 +1,3 @@
-# Tic-Tac-Toe
+I started this project by reviewing the rules of Tic Tac Toe to understand how to check for a winner and manage the game board. The code is split into three Python files: one for the game logic, one for printing the board and messages, and one to run the game loop.
+
+I created functions to display the board, handle and validate player moves, and check for a win or a tie. In the end, the project was straightforward, but I learned how to organize code into modules and interact with users via the console. In the future, I might add an AI opponent or a graphical interface.
